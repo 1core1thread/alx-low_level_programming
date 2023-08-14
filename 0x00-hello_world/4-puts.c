@@ -1,7 +1,8 @@
 #include<stdio.h>
 /**
- * Main: is always the first function in C
- * return: it means that in the end I will get 0 in output
+ * main - Entry point
+ *
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
